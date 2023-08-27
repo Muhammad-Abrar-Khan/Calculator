@@ -5,7 +5,7 @@ Welcome to the **Calculator** project, a simple web-based calculator developed u
 ## Table of Contents
 
 - [Demo](#-demo)
-- [Screen Recording](#-screen-recording)
+- [Screen Recording](#screen-recording)
 - [How to Use](#how-to-use)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
